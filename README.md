@@ -1,4 +1,4 @@
-# dom-challenge-i
+# DOM Challenge I
 
 MDN Web Docs was strongly referenced for completion of this assignment.
 
