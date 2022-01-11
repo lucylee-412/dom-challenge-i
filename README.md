@@ -1,2 +1,4 @@
 # dom-challenge-i
-Lucy Lee's submission for Assignment #3 of Brooklyn College's 2022 TTP Residency winter workshops.
+
+MDN Web Docs was strongly referenced for completion of this assignment.
+https://developer.mozilla.org/en-US/docs/Web/API/Document
